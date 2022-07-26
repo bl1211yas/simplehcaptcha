@@ -30,7 +30,10 @@
 <h1>
 simple hcaptcha <br> web simplementation
 </h1>
-  <?php$data = array(
+  
+  
+</body>
+<?php$data = array(
             'secret' => "3767dec1-6b31-4f0d-acf4-34147e391e1c (should start with 0x..)",
             'response' => $_POST['h-captcha-response']
         );$verify = curl_init();
@@ -45,5 +48,3 @@ if($responseData->success) {
 else {
    // return error to user; they did not pass
 }?>
-  
-</body>
