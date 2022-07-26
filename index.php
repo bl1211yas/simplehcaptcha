@@ -7,5 +7,5 @@
 <h1>
 simple hcaptcha web simplementation
 </h1>
-<div class="h-captcha" data-sitekey="717ddd1b-bc1a-49ae-bf1c-f831d647f25c" ></div>
+<div class="h-captcha" data-sitekey="3767dec1-6b31-4f0d-acf4-34147e391e1c" ></div>
 </body>
