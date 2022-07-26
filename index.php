@@ -1,4 +1,4 @@
-<php
+
 <head>
 <script src='https://www.hCaptcha.com/1/api.js' async defer></script>
 
